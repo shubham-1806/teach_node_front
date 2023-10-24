@@ -1,0 +1,11 @@
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 4rem;
+    padding: 15px;
+    width: 100vw;
+}
+  
