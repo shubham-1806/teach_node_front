@@ -2,7 +2,7 @@ import { Table } from "@mantine/core";
 import { useEffect, useState } from "react";
 import { Loader } from "@mantine/core";
 
-const MongoTable = () => {
+const Retrieve = () => {
 
     interface Student{
         name: string;
@@ -42,4 +42,4 @@ const MongoTable = () => {
     );
 }
 
-export default MongoTable;
+export default Retrieve;
